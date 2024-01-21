@@ -1,6 +1,7 @@
 [
     {
         "package": "pelotonR",
-        "url": "https://ats.github.com/pelotonR"
+        "url": "https://ats.github.com/pelotonR",
+        "branch": "master"
     }
 ]
